@@ -1,0 +1,44 @@
+#fundo {
+    text-align: center;
+    margin: auto;
+    background-color: #fcf5f5;
+    width: 1405px;
+    padding: 20px;
+  }
+  
+  h1 {
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    
+  }
+  
+  .usuario {
+    background-color: #e4e3e3;
+    border: 2px solid #000000;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .botao {
+    background-color: #646464;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .botao:hover {
+    background-color: #3d3d3d5e;
+  }
+  
+  input[type="color"] {
+    margin-top: 20px;
+  }
+  
